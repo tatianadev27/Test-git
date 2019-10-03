@@ -1,9 +1,9 @@
 .title{
-    color: blue;
+    color: red;
+    background: rgb(206, 203, 203);
     
 }
 
 #cabecera{
-    background: grey;
     color: green;
 }
