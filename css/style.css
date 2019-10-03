@@ -1,7 +1,12 @@
 .title{
     color: blue;
+}
+
+#cabecera{
     background: grey;
 }
+
 .text-size{
     font-size : 13px;
+    color: green;
 }
